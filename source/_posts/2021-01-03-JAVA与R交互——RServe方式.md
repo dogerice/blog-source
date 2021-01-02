@@ -88,6 +88,5 @@ System.out.println(r2.asString());
 rc.eval("source('/home/R/add.R')");			//因为R的实际执行是在服务端，所以在读取文件等操作时读的是服务端的文件
 int sum = rc.eval("myAdd(1, 2)").asInteger();
 System.out.println(sum);
-
 ```
 
