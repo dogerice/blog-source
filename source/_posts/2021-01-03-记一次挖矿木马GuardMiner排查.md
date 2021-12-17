@@ -5,6 +5,8 @@ tags:
 - GuardMiner
 - 木马
 - linux
+categories:
+- tools
 ---
 
  
