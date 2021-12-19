@@ -9,7 +9,8 @@ categories:
 - tools
 ---
 
- 
+记录一个在高版本chrome浏览器中播放RTSP视频流的方法
+<!-- more -->
 
 背景：海康威视的监控系统推送的视频流是RTSP协议，在IE浏览器上可以通过VLC等插件来播放，但chrome浏览器从46版本开始不再支持，试了许多前端组件基本都只能播放HLS或RTMP的流，最终选择RTSP转RTMP的方式解决这个问题
 

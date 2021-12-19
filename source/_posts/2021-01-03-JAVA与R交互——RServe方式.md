@@ -8,7 +8,8 @@ categories:
 - tools
 ---
 
- 
+如何用Java调用R
+<!-- more -->
 
 R语言适合做数据统计与分析，java适合开发应用系统，本文介绍如何以Rserve的方式在java中调用R
 
